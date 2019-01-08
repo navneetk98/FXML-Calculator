@@ -4,7 +4,6 @@ import java.util.Iterator;
 import java.util.ResourceBundle;
 import javafx.application.Application;
 import javafx.application.Platform;
-
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
